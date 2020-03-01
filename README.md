@@ -17,9 +17,9 @@
  
  The completed task is understood by isCompleted column.
  
- *The form is dynamically posted by selecting radiobuttons.*
- 
  If you want to **edit** or **detail** or **delete** any task, you can do it by buttons at the end of the row.
+ 
+ *The form is dynamically posted by selecting radiobuttons.*
  
  ![TaskManagerMonthly](https://user-images.githubusercontent.com/61467781/75624837-41e06300-5bc9-11ea-9d59-14a9af008ebb.png)
  
