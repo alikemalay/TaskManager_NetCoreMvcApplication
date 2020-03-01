@@ -13,6 +13,7 @@
  You can also show **past** or **completed** tasks.
  The color of tasks that on past is more lighter than that on current or future.
  The completed task is understood by isCompleted column.
+ *The form is dynamically posted by selecting radiobuttons.*
  
  If you want to **edit** or **detail** or **delete** any task, you can do it by buttons at the end of the row.
  
