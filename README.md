@@ -8,11 +8,15 @@
 ![TaskManagerCreate](https://user-images.githubusercontent.com/61467781/75625106-df3c9680-5bcb-11ea-9455-d407c28b4b0c.png)
 
  
+ 
  You can list tasks by time periods that include **monthly**, **weekly**, **daily** and **all**.
  
  You can also show **past** or **completed** tasks.
+ 
  The color of tasks that on past is more lighter than that on current or future.
+ 
  The completed task is understood by isCompleted column.
+ 
  *The form is dynamically posted by selecting radiobuttons.*
  
  If you want to **edit** or **detail** or **delete** any task, you can do it by buttons at the end of the row.
