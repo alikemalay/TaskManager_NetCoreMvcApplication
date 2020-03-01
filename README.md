@@ -2,7 +2,8 @@
  Task Manager Web Application 
  
  You can list tasks by time periods that include monthly, weekly, daily and all.
- You also can show past or completed tasks.
+ 
+ You can also show past or completed tasks.
  The color of tasks that on past is more lighter than that on current or future.
  The completed task is understood by isCompleted column.
  
