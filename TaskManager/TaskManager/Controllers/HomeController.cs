@@ -30,17 +30,7 @@ namespace TaskManager.Controllers
         {
             return View();
         }
-
-        // To get data from SQLSERVER
-
-        /*  string connectionString = iconfiguration.GetConnectionString("DefaultConStr");
-        SqlConnection connection = new SqlConnection(connectionString);
-        connection.Open();
-            string cmd = "SELECT Count(*) FROM Movie";
-        SqlCommand sqlCmd = new SqlCommand(cmd, connection);
-        var count = (int)sqlCmd.ExecuteScalar();
-        ViewData["TotalData"] = count;
-        connection.Close(); */
+        
         public IActionResult Privacy()
         {
             return View();
